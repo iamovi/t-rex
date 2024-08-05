@@ -16,7 +16,7 @@ Download classic Chrome t-rex runner game for Desktop.
 
 ***.msi*** => [Click here](https://github.com/iamovi/t-rex/releases/download/t-rex-runner/t-rex.runner.Setup.msi)
 
-***unpacked.zip** => [Click here](https://github.com/iamovi/t-rex/releases/download/t-rex-runner/t-rex-runner-unpacked.zip)
+***unpacked.zip*** => [Click here](https://github.com/iamovi/t-rex/releases/download/t-rex-runner/t-rex-runner-unpacked.zip)
 
 **Linux Apps =>**
 
